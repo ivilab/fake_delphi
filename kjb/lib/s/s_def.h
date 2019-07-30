@@ -18,6 +18,8 @@
 |
 * =========================================================================== */
 
+/* test repo_sync */
+
 #ifndef S_DEF_INCLUDED
 #define S_DEF_INCLUDED 1
 
