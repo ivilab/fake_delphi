@@ -18,6 +18,8 @@
 |
 * =========================================================================== */
 
+/* Testing rsync_repo */
+
 #ifndef C2_DEF_INCLUDED
 #define C2_DEF_INCLUDED
 
