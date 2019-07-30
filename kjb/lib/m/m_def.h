@@ -18,8 +18,6 @@
 |
 * =========================================================================== */
 
-/* Test repo sync */
-
 #ifndef M_DEF_INCLUDED
 #define M_DEF_INCLUDED
 

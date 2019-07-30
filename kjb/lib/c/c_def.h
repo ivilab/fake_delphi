@@ -18,8 +18,6 @@
 |
 * =========================================================================== */
 
-/* Test repo sync */
-
 #ifndef C_DEF_INCLUDED 
 #define C_DEF_INCLUDED 
 
