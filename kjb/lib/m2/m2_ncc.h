@@ -17,6 +17,8 @@
 |
 * =========================================================================== */
 
+/* Test repo_sync */
+
 #ifndef M2_NCC_INCLUDED
 #define M2_NCC_INCLUDED
 
