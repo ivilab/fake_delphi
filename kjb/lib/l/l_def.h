@@ -19,8 +19,6 @@
 * =========================================================================== */
 
 /* Add a line to play with commit from svn. */
-/* Add a line to play with commit from svn. */
-/* Add a line to play with commit from svn. */
 
 #ifndef L_DEF_INCLUDED
 #define L_DEF_INCLUDED
