@@ -18,6 +18,8 @@
 |
 * =========================================================================== */
 
+/* More testing of repo_sync. */
+
 #ifndef S2_DEF_INCLUDED
 #define S2_DEF_INCLUDED 1
 

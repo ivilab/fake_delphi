@@ -18,9 +18,10 @@
 |
 * =========================================================================== */
 
+/* More testing of repo_sync. */
+
 #ifndef C2_DEF_INCLUDED
 #define C2_DEF_INCLUDED
-
 
 #ifdef __cplusplus
 extern "C" {
