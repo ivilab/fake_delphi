@@ -18,9 +18,6 @@
 |
 * =========================================================================== */
 
-/* Try one more time to update everywhere from fake_delphi. */
-/* Try one more time to update everywhere from fake_delphi. */
-
 #ifndef C2_DEF_INCLUDED
 #define C2_DEF_INCLUDED
 
