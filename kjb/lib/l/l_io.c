@@ -1,5 +1,5 @@
 
-/* $Id: l_io.c 24705 2019-12-13 22:59:25Z kobus $ */
+/* $Id: l_io.c 24706 2019-12-13 23:00:26Z kobus $ */
 
 /* =========================================================================== *
 |
@@ -2859,7 +2859,7 @@ int push_no_overwrite(int no_overwrite)
 {
     int* save_no_overwrite_ptr; 
     int result = NO_ERROR;
-#ifdef TRACK_MEMORY_ALLOCATION
+#ifdef MUST_CLEANUP
     static int  fs_first_no_overwrite_stack_use = TRUE; 
 #endif 
 
