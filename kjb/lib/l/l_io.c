@@ -1,5 +1,5 @@
 
-/* $Id: l_io.c 24703 2019-12-13 22:56:35Z kobus $ */
+/* $Id: l_io.c 24705 2019-12-13 22:59:25Z kobus $ */
 
 /* =========================================================================== *
 |
@@ -1229,7 +1229,7 @@ long string_get_real_line
 
 static int set_alternate_input(const char* file_name)
 {
-#ifdef TRACK_MEMORY_ALLOCATION
+#ifdef MUST_CLEANUP
     static int first_time         = TRUE;
 #endif
     FILE*      alternate_input_fp;
